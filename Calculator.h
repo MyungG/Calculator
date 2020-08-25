@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include "Stack.h"
 
-//¿¬»êÀÚ¿Í ¼ýÀÚ¸¦ Á¤ÀÇ
+// ì—°ì‚°ìžì™€ ìˆ«ìžë¥¼ ì •ì˜
 typedef enum
 {
 	LEFT_PARENTHESIS = '(', RIGHT_PARENTHESIS = ')',
